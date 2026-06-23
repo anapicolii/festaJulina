@@ -8,7 +8,7 @@ btnModal.addEventListener("click", ()=>{
 })
 
 btn.addEventListener("click", ()=>{
-    p.textContent = "Número Sorteado:"
+    p.textContent = " NÚMERO SORTEADO:"
 
     let valorMaximo = document.querySelector("#maximo").value
 
