@@ -1,10 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Shadows+Into+Light&display=swap');
 
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* Fundo padrão caso nenhuma imagem seja inserida */
     background-color: #e67e22;
     background-size: cover;
@@ -18,10 +16,9 @@ body {
     align-items: center;
     justify-content: center;
 
-    font-family: "Bungee Spice", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-
+      font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
     transition: background-image 0.5s ease;
 }
 
